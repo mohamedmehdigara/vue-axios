@@ -16,3 +16,5 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+https://dev.to/yemiwebby/handling-ajax-request-in-vue-applications-using-axios-30cm
